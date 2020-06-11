@@ -6,6 +6,7 @@
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "samitha@ieee.org",
     "phone": "+94 71 187 5695",
+    "resumedownload":"https://drive.google.com/file/d/1c0IWDdc6rehcuC1THWaiiNCxTODFswCa/view?usp=sharing",
     "address":{
       "street":"133/11A Wishwakalawa road, Mampe,",
       "city":"Piliyandala, ",
@@ -13,7 +14,6 @@
       "zip": "10300"
     },
     "website": "",
-    "resumedownload":"http://timbakerdev.com",
     "social":[
       {
         "name":"facebook",
