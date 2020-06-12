@@ -818,6 +818,12 @@ call-to-action .button {
    color: #EBEEEE;
    margin-bottom: 6px;
 }
+#contact .profile-pic {
+   position: relative;
+   width: 320px;
+   height: 320px;
+   object-fit: cover;
+}
 #contact h1 span { display: none; }
 #contact h1:before {
    font-family: 'FontAwesome';
