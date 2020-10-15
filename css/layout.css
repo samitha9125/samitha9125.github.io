@@ -204,8 +204,8 @@ ul#nav li.current a { color: #333333; text-shadow: 1px 1px #333333;}
 }
 #about .profile-pic {
    position: relative;
-   width: 120px;
-   height: 120px;
+   width: 220px;
+   height: 220px;
    object-fit: cover;
    border-radius: 100%;
 }
