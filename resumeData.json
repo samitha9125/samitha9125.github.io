@@ -1,171 +1,175 @@
 {
   "main": {
-    "name":"Samitha Nanayakkara",
-    "image":"profilepic.jpg",
-    "primary_bio":"I'm a Lecturer and a Senior Software Engineer from Colombo, Sri Lanka.",
-    "secondary_bio":"Love to spend my time on writing codes and exploring new tech. When I'm not coding/ lecturing, either work on my MPhil or enjoy a nice movie/ TV series with a hot coffee.",
+    "name": "Samitha Nanayakkara",
+    "image": "profilepic.jpg",
+    "primary_bio": "I'm a Lecturer and a Senior Software Engineer from Colombo, Sri Lanka.",
+    "secondary_bio": "Love to spend my time on writing codes and exploring new tech. When I'm not coding/ lecturing, either work on my MPhil or enjoy a nice movie/ TV series with a hot coffee.",
     "email": "samitha@ieee.org",
     "emailTwo": "san@fhss.sjp.ac.lk",
     "emailThree": "san@sjp.ac.lk",
-    "phone": "+94 71 187 5695",
-    "resumedownload":"https://drive.google.com/file/d/1c0IWDdc6rehcuC1THWaiiNCxTODFswCa/view?usp=sharing",
-    "address":{
-      "street":"133/11A Wishwakalawa road, Mampe,",
-      "city":"Piliyandala, ",
-      "state":"Colombo.",
+    "phone": "+94 71 687 5695",
+    "resumedownload": "https://drive.google.com/file/d/1c0IWDdc6rehcuC1THWaiiNCxTODFswCa/view?usp=sharing",
+    "address": {
+      "street": "133/11A Wishwakalawa road, Mampe,",
+      "city": "Piliyandala, ",
+      "state": "Colombo.",
       "zip": "10300"
     },
     "website": "",
-    "social":[
+    "social": [
       {
-        "name":"facebook",
-        "url":"https://www.facebook.com/ssamesammy",
-        "className":"fa fa-facebook"
+        "name": "facebook",
+        "url": "https://www.facebook.com/ssamesammy",
+        "className": "fa fa-facebook"
       },
       {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/samithananayakkara/",
-        "className":"fa fa-linkedin"
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/samithananayakkara/",
+        "className": "fa fa-linkedin"
       },
       {
-        "name":"instagram",
-        "url":"https://www.instagram.com/sam.n94/",
-        "className":"fa fa-instagram"
+        "name": "instagram",
+        "url": "https://www.instagram.com/sam.n94/",
+        "className": "fa fa-instagram"
       },
       {
-        "name":"github",
-        "url":"https://github.com/samitha9125",
-        "className":"fa fa-github"
+        "name": "github",
+        "url": "https://github.com/samitha9125",
+        "className": "fa fa-github"
       },
       {
-        "name":"stackoverflow",
-        "url":"https://stackoverflow.com/users/12586837/samitha-nanayakkara",
-        "className":"fa fa-stack-overflow"
+        "name": "stackoverflow",
+        "url": "https://stackoverflow.com/users/12586837/samitha-nanayakkara",
+        "className": "fa fa-stack-overflow"
       }
     ]
   },
-  "resume":{
-    "skillmessage":"",
-    "education":[
+  "resume": {
+    "skillmessage": "",
+    "education": [
       {
-        "school":"University of Sri Jayewardenepura",
-        "degree":"Bachelors of Science (Honours) in Computer Science",
-        "graduated":"Sept 2019",
-        "description":"Graduated with a First Class Degree"
+        "school": "University of Sri Jayewardenepura",
+        "degree": "MPhil in Computer Science (Reading)"
       },
       {
-        "school":"British Computer Society (BCS)",
-        "degree":"HEQ in IT",
-        "graduated":"Sept 2018",
-        "description":"UK NQF Level 6 Qualified"
+        "school": "University of Sri Jayewardenepura",
+        "degree": "Bachelors of Science (Honours) in Computer Science",
+        "graduated": "Sept 2019",
+        "description": "Graduated with a First Class Degree"
       },
       {
-        "school":"D.S Senanayake College, Colombo 7.",
-        "degree":"G.C.E. Advanced Level",
-        "graduated":"Aug 2013"
+        "school": "British Computer Society (BCS)",
+        "degree": "HEQ in IT",
+        "graduated": "Sept 2018",
+        "description": "UK NQF Level 6 Qualified"
+      },
+      {
+        "school": "D.S Senanayake College, Colombo 7.",
+        "degree": "G.C.E. Advanced Level",
+        "graduated": "Aug 2013"
       }
     ],
-    "work":[
+    "work": [
       {
-        "company":"University of Sri Jayewardenepura",
-        "title":"Lecturer (Probationary)",
-        "years":"October 2020 - Present",
-        "description":"Got appointed as a Lecturer (Probationary) in Department of ICT, Faculty of Humanities and Social Sciences, USJ."
+        "company": "University of Sri Jayewardenepura",
+        "title": "Lecturer (Probationary)",
+        "years": "October 2020 - Present",
+        "description": "Got appointed as a Lecturer (Probationary) in Department of ICT, Faculty of Humanities and Social Sciences, USJ."
       },
       {
-        "company":"University of Sri Jayewardenepura",
-        "title":"Temporary Lecturer",
-        "years":"January 2020 - September 2020",
-        "description":"Embarked my career on academia as a Temporary Lecturer in Department of ICT, Faculty of Humanities and Social Sciences, USJ."
+        "company": "University of Sri Jayewardenepura",
+        "title": "Temporary Lecturer",
+        "years": "January 2020 - September 2020",
+        "description": "Embarked my career on academia as a Temporary Lecturer in Department of ICT, Faculty of Humanities and Social Sciences, USJ."
       },
       {
-        "company":"EchonLabs",
-        "title":"COO/ Senior Software Engineer",
-        "years":"April 2018 - Present",
-        "description":"Started working as the chief operating officer and a senior software engineer of an emerging software solutions company."
+        "company": "EchonLabs",
+        "title": "COO/ Senior Software Engineer",
+        "years": "April 2018 - Present",
+        "description": "Started working as the chief operating officer and a senior software engineer of an emerging software solutions company."
       },
       {
-        "company":"Axiata Digital Labs",
-        "title":"Software Engineer",
-        "years":"March 2019 - December 2019"
+        "company": "Axiata Digital Labs",
+        "title": "Software Engineer",
+        "years": "March 2019 - December 2019"
       },
       {
-        "company":"Dialog Axiata",
-        "title":"Software Engineer Trainee",
-        "years":"August 2018 - February 2019"
+        "company": "Dialog Axiata",
+        "title": "Software Engineer Trainee",
+        "years": "August 2018 - February 2019"
       }
     ],
-    "publications":[
+    "publications": [
       {
-        "title":"Automatic Motion Artifacts Recognition in Resting ECG/EKG to Identify Failed Tests using Machine Learning.",
-        "authors":"S.Nanayakkkara, R.G.N Meegama",
-        "description":" Bachelor Thesis Research Paper",
-        "link":"https://www.researchgate.net/publication/338337491_Automatic_Motion_Artifacts_Recognition_in_Resting_ECGEKG_to_Identify_Failed_Tests_using_Machine_Learning"
+        "title": "Automatic Motion Artifacts Recognition in Resting ECG/EKG to Identify Failed Tests using Machine Learning.",
+        "authors": "S.Nanayakkkara, R.G.N Meegama",
+        "description": " Bachelor Thesis Research Paper",
+        "link": "https://www.researchgate.net/publication/338337491_Automatic_Motion_Artifacts_Recognition_in_Resting_ECGEKG_to_Identify_Failed_Tests_using_Machine_Learning"
       },
       {
-        "title":"A Review of Literature on Iris Recognition.",
-        "authors":"S.Nanayakkkara, R.G.N Meegama",
-        "link":"https://www.researchgate.net/publication/339484562_A_Review_of_Literature_on_Iris_Recognition"
+        "title": "A Review of Literature on Iris Recognition.",
+        "authors": "S.Nanayakkkara, R.G.N Meegama",
+        "link": "https://www.researchgate.net/publication/339484562_A_Review_of_Literature_on_Iris_Recognition"
       }
     ],
-    "memberships":[
+    "memberships": [
       {
-        "body":"British Computer Society (BCS)",
-        "membership":"Member of British Computer Society",
-        "year":"Sept 2018"
+        "body": "British Computer Society (BCS)",
+        "membership": "Member of British Computer Society",
+        "year": "Sept 2018"
       },
       {
-        "body":"Institute of Electrical and Electronics Engineers (IEEE)",
-        "membership":"Member of IEEE",
-        "year":"Apr 2017"
+        "body": "Institute of Electrical and Electronics Engineers (IEEE)",
+        "membership": "Member of IEEE",
+        "year": "Apr 2017"
       }
     ],
-    "skills":[
+    "skills": [
       {
-        "name":"React Native",
-        "level":"95%"
+        "name": "React Native",
+        "level": "95%"
       },
       {
-        "name":"Javascript",
-        "level":"90%"
+        "name": "Javascript",
+        "level": "90%"
       },
       {
-        "name":"Tensorflow/Keras",
-        "level":"80%"
+        "name": "Tensorflow/Keras",
+        "level": "80%"
       },
       {
-        "name":"Python",
-        "level":"70%"
+        "name": "Python",
+        "level": "70%"
       },
       {
-        "name":"Java",
-        "level":"70%"
+        "name": "Java",
+        "level": "70%"
       },
       {
-        "name":"ReactJS",
-        "level":"65%"
+        "name": "ReactJS",
+        "level": "65%"
       }
     ]
   },
-  "projects":[
+  "projects": [
     {
-      "name":"FinPal",
-      "icon":"finpal.png",
+      "name": "FinPal",
+      "icon": "finpal.png",
       "description": "I was a lead developer of the mobile app team when I was working at ADL in 2018 and 2019."
     },
     {
-      "name":"We@Celcom",
-      "icon":"celcom.jpg",
+      "name": "We@Celcom",
+      "icon": "celcom.jpg",
       "description": "Developed the We@Celcom mobile app when working at ADL in 2019."
     },
     {
-      "name":"Araksha",
-      "icon":"araksha.png",
+      "name": "Araksha",
+      "icon": "araksha.png",
       "description": "Developed Araksha mobile app for EchonLabs in 2020"
     },
     {
-      "name":"Araksha Driver",
-      "icon":"araksha-driver.png",
+      "name": "Araksha Driver",
+      "icon": "araksha-driver.png",
       "description": "Developed Araksha Driver mobile app for EchonLabs in 2020"
     }
   ]
